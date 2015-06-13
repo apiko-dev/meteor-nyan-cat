@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'nyan-cat',
+  name: 'jss:nyan-cat',
   version: '1.0.0',
   summary: 'Nyan cat in your console!',
   git: 'https://github.com/JSSolutions/meteor-nyan-cat',
